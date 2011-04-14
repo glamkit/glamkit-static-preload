@@ -1,3 +1,3 @@
-from django.db import models
-
-# Create your models here.
+# an app, sans models
+# a django pony through mist
+# both invisible
