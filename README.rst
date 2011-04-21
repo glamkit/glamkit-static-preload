@@ -31,7 +31,7 @@ PRELOAD_CACHE_ROOT
 The absolute path to the directory where the cached preloaded views will be 
 stored.
 
-Defaults to the "CACHE" subdirectory in ``MEDIA_ROOT``.
+Defaults to the "CACHE/static_preload/" subdirectory in ``MEDIA_ROOT``.
 
 PRELOAD_CACHE_URL
 ~~~~~~~~~~~~~~~~~
